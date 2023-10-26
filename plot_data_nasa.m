@@ -1,4 +1,5 @@
 load matlab_mean_data.mat
+lonCentered = lonData -180;
 
 %moyenne temporelle des données et figures
 
